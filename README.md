@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programs involving array manipulation. The `bug.cob` file shows incorrect usage of an array to accumulate a sum. The corrected code is provided in `bugSolution.cob`, along with explanations of the issue and the solution.  The problem highlights the importance of proper array indexing and efficient output methods in COBOL.
